@@ -1,0 +1,2 @@
+# SchoolStuff
+For school assignments

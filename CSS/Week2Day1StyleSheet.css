@@ -1,0 +1,34 @@
+body {background-image: url('../screensavers/ryan-hafey-mSnfSWBaP_8-unsplash.jpg');
+      background-color: #191970;}
+      .featured-image {text-decoration: white;
+            font-family: Arial, Helvetica, sans-serif;}
+      .featured-image {text-align: center;}
+      .nav {text-decoration: none;
+             font-family: Arial, Helvetica, sans-serif;
+             display: inline;
+             background-color: #28282B;
+             padding-top:10px;
+             padding-right: 0;
+             padding-bottom: 10px;
+             padding-left: 4px;
+             border: solid 1px #28282B;
+            margin:0px}
+            .nav {width: 100%;}      
+      ul {list-style: none;}
+      li {display: inline-block;
+            margin: 10px;}
+      .nav a {; color: white;
+            text-decoration: none;}
+      .nav {float: none;
+            position: absolute;
+            left: 50%;
+            transform: translate(-50%, -50%);
+      text-align: center;}
+      h1 {padding-top: 110px;
+            padding-bottom: 10px;
+            margin-left: auto;
+            margin-right: auto;
+      font-weight:700;
+font-size: 50px;}
+      h4 {margin: 0 auto 0 auto;
+            font-weight: normal;}
